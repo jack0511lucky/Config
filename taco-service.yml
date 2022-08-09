@@ -13,3 +13,7 @@ management:
         include: '*'
     health:
       show-details: always
+      
+greeting:
+  message: Hello World!     
+      
